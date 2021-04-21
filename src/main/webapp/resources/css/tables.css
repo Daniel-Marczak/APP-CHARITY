@@ -1,0 +1,46 @@
+table{
+    border: 1px solid #f9c910;
+    border-collapse: collapse;
+}
+
+thead{
+    background-image: url(../images/stats-bg.jpg);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.9rem;
+}
+
+th, td{
+    padding: 0.75rem;
+    vertical-align: center;
+    horiz-align: center;
+    font-size: 1.7rem;
+}
+
+.address-dropdown-table th{
+    text-align: right;
+    width: 160px;
+}
+
+.address-dropdown-table td{
+    text-align: left;
+    min-width: 210px;
+}
+
+.status-dropdown-menu{
+    padding: 5px 10px 5px;
+    width: 285px;
+}
+
+.status-dropdown-menu a{
+    width: 250px;
+    margin: 15px 5px 15px;
+    font-style: normal;
+    font-size: 1.6rem;
+}
+
+.hidden{
+    display: none;
+}
+

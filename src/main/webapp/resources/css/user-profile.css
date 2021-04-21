@@ -1,0 +1,29 @@
+.user-info-d-none{
+    display: none;
+}
+
+.user-info-d-visible{
+    text-align: center;
+    align-content: center;
+}
+
+.user-info-input{
+    display: block;
+    font-size: 1.8rem;
+    width: 250px;
+    height: 30px;
+    margin: 20px auto;
+}
+
+.form-group input{
+    text-align: center;
+    horiz-align: center;
+
+}
+
+.edit-profile-btn-div{
+    width: 600px;
+    margin: 40px auto 0;
+    align-content: center;
+    text-align: center;
+}

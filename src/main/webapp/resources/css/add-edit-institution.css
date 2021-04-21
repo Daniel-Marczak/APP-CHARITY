@@ -1,0 +1,62 @@
+.institution-name-input, .institution-city-input, .institution-description-input{
+    text-align: center;
+    horiz-align: center;
+    width: 350px;
+    height: 30px;
+    font-size: 1.8rem;
+    margin: 10px auto;
+}
+
+.edit-institution-btn-div{
+    width: 600px;
+    margin: 40px auto 0;
+    align-content: center;
+    text-align: center;
+}
+
+.add-institution-radio-text{
+    display: inline-block;
+    font-size: 1.8rem;
+}
+
+.add-institution-radio-btn{
+    width: 50px;
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 1.8rem;
+}
+
+.add-institution-radio-div {
+    display: inline-block;
+    width: 350px;
+    border-radius: 2px;
+    height: 30px;
+    text-align: center;
+    horiz-align: center;
+    margin: 10px auto;
+    padding-top: 5px;
+}
+
+.institution-section-d-none{
+    display: none;
+}
+
+/*.institution-section-visible{*/
+
+/*}*/
+
+/*.list-institution-btn{*/
+
+/*}*/
+
+/*.add-institution-btn{*/
+
+/*}*/
+
+
+
+
+
+
+
+
